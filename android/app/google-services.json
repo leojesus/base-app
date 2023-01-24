@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "114772683188",
+    "project_id": "genshin-builder-f948e",
+    "storage_bucket": "genshin-builder-f948e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114772683188:android:a8d5bcb9b965c7c6a02ae1",
+        "android_client_info": {
+          "package_name": "com.leleco.genshinbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114772683188-mcu970otogrjuj2laom2gh2mqpejisd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeJAI67FkvBRHpqfF3MgIovoYF8gFC6Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114772683188-mcu970otogrjuj2laom2gh2mqpejisd6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114772683188-ltq66t2kn2ctg56b3edc243si4imm7lb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.leleco.genshinbuilder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
