@@ -1,4 +1,8 @@
-# genshin app
+# base-app
 
-Data:
-https://docs.google.com/spreadsheets/d/198cJTJHQRMxH5iY3prqMT1VqQlXEFzMKd1BTuDITdyw/edit#gid=0
+Base flutter app
+
+- Update firebase integration
+- Update app name (com.leleco.)
+- Update app icon
+- Update routes and widgets
