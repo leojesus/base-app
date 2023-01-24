@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>114772683188-ltq66t2kn2ctg56b3edc243si4imm7lb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.114772683188-ltq66t2kn2ctg56b3edc243si4imm7lb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCMG0M1VahBRINAl-by6QcaaEGuuvnHjM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>114772683188</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.leleco.genshinbuilder</string>
+	<key>PROJECT_ID</key>
+	<string>genshin-builder-f948e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>genshin-builder-f948e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:114772683188:ios:9c908cfa74f39c52a02ae1</string>
+</dict>
+</plist>
